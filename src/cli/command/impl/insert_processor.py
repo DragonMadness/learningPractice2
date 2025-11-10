@@ -1,8 +1,6 @@
 from cli.command.command_processor import CommandProcessor
 from cli import util
-
 from repository.impl.user_repository import UserRepository
-
 from model.user import User
 
 from datetime import date
